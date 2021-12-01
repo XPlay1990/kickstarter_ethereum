@@ -1,0 +1,9 @@
+# Project exclude paths
+/node_modules/
+
+.vscode
+.idea
+
+secretConfig.ts
+# Project exclude paths
+/.next/
